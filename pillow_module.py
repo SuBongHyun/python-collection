@@ -31,4 +31,6 @@ img3.save('python-rotate.jpg')
 #이미지 필터링
 blurImage = im.filter(ImageFilter.BLUR)
 blurImage.save('python-blur.png')
-# other examples exist in referred blog
+# Other examples can be found in the references below.
+#http://pythonstudy.xyz/python/article/406-파이썬-이미지-처리-Pillow
+#https://blog.naver.com/PostView.nhn?blogId=heennavi1004&logNo=222061487980&from=search&redirect=Log&widgetTypeCall=true&directAccess=false
